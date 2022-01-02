@@ -6,4 +6,5 @@
 - [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
 - [`[mongoose] regular expression을 사용하여 keyword 서치하기`](https://github.com/Brylimo/TIL/issues/3)
 - [`password hashing(bcrypt 사용법)`](https://github.com/Brylimo/TIL/issues/4)
+- [`res.locals를 이용한 pug 접근`](https://github.com/Brylimo/TIL/issues/5)
 <br>
