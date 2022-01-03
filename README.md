@@ -8,4 +8,5 @@
 - [`password hashing(bcrypt 사용법)`](https://github.com/Brylimo/TIL/issues/4)
 - [`res.locals를 이용한 pug 접근`](https://github.com/Brylimo/TIL/issues/5)
 - [`Session`](https://github.com/Brylimo/TIL/issues/6)
+- [`Environment Variables`](https://github.com/Brylimo/TIL/issues/7)
 <br>
