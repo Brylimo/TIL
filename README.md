@@ -7,4 +7,5 @@
 - [`[mongoose] regular expression을 사용하여 keyword 서치하기`](https://github.com/Brylimo/TIL/issues/3)
 - [`password hashing(bcrypt 사용법)`](https://github.com/Brylimo/TIL/issues/4)
 - [`res.locals를 이용한 pug 접근`](https://github.com/Brylimo/TIL/issues/5)
+- [`Session`](https://github.com/Brylimo/TIL/issues/6)
 <br>
