@@ -10,4 +10,5 @@
 - [`Session`](https://github.com/Brylimo/TIL/issues/6)
 - [`Environment Variables`](https://github.com/Brylimo/TIL/issues/7)
 - [`fetch를 이용한 HTTP request`](https://github.com/Brylimo/TIL/issues/8)
+- [`URLSearchParams`](https://github.com/Brylimo/TIL/issues/9)
 <br>
