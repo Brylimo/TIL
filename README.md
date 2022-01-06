@@ -1,6 +1,7 @@
 # <p align="center">[Today I Learned(TIL)🚀](https://github.com/Brylimo/TIL/issues)</p>
 ### Contents
 - [Node.js](#Node.js)
+- [TypeScript](#TypeScript)
 
 ### Node.js
 - [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
@@ -11,4 +12,6 @@
 - [`Environment Variables`](https://github.com/Brylimo/TIL/issues/7)
 - [`fetch를 이용한 HTTP request`](https://github.com/Brylimo/TIL/issues/8)
 - [`URLSearchParams`](https://github.com/Brylimo/TIL/issues/9)
-<br>
+
+### TypeScript
+- [`type 키워드`](https://github.com/Brylimo/TIL/issues/10)
