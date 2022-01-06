@@ -15,3 +15,4 @@
 
 ### TypeScript
 - [`type 키워드`](https://github.com/Brylimo/TIL/issues/10)
+- [`tsc-watch`](https://github.com/Brylimo/TIL/issues/11)
