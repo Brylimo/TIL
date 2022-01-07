@@ -12,6 +12,7 @@
 - [`Environment Variables`](https://github.com/Brylimo/TIL/issues/7)
 - [`fetch를 이용한 HTTP request`](https://github.com/Brylimo/TIL/issues/8)
 - [`URLSearchParams`](https://github.com/Brylimo/TIL/issues/9)
+- [`express-fileupload library`](https://github.com/Brylimo/TIL/issues/12)
 
 ### TypeScript
 - [`type 키워드`](https://github.com/Brylimo/TIL/issues/10)
