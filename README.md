@@ -15,6 +15,7 @@
 - [`express-fileupload library`](https://github.com/Brylimo/TIL/issues/12)
 - [`async 함수가 반환하는 값의 의미`](https://github.com/Brylimo/TIL/issues/13)
 - [`Github login API 사용법`](https://github.com/Brylimo/TIL/issues/14)
+- [`[Mongoose] Schema Relationship`](https://github.com/Brylimo/TIL/issues/15)
 
 ### TypeScript
 - [`type 키워드`](https://github.com/Brylimo/TIL/issues/10)
