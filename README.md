@@ -27,3 +27,4 @@
 
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
+- [`Map.of`]
