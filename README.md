@@ -3,6 +3,7 @@
 - [Node.js](#Node.js)
 - [TypeScript](#TypeScript)
 - [React.js](#React.js)
+- [Java](#Java)
 
 ### Node.js
 - [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
@@ -23,3 +24,6 @@
 ### TypeScript
 - [`type 키워드`](https://github.com/Brylimo/TIL/issues/10)
 - [`tsc-watch`](https://github.com/Brylimo/TIL/issues/11)
+
+### Java
+- [`indexOf`]
