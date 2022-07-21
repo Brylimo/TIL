@@ -26,4 +26,4 @@
 - [`tsc-watch`](https://github.com/Brylimo/TIL/issues/11)
 
 ### Java
-- [`indexOf`]
+- [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
