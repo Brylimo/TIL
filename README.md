@@ -28,3 +28,4 @@
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
 - [`Map.of`]
+- [`Map을 순회하는 방법`]
