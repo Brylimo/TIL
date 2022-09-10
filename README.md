@@ -39,3 +39,4 @@
 - [`💻프로젝트 생성`](https://github.com/Brylimo/TIL/issues/21)
 - [`💻라이브러리 살펴보기`](https://github.com/Brylimo/TIL/issues/22)
 - [`💻view 환경설정`](https://github.com/Brylimo/TIL/issues/23)
+- [`💻빌드하고 실행하기`](https://github.com/Brylimo/TIL/issues/24)
