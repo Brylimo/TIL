@@ -37,4 +37,4 @@
 
 ### SpringBoot
 - [`💻프로젝트 생성`](https://github.com/Brylimo/TIL/issues/21)
-- [`💻라이브러리 살펴보기`](https://github.com/Brylimo/TIL/issues/21)
+- [`💻라이브러리 살펴보기`](https://github.com/Brylimo/TIL/issues/22)
