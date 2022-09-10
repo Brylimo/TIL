@@ -36,4 +36,4 @@
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
 
 ### SpringBoot
-- ['*프로젝트 생성']
+- [`💻프로젝트 생성`](https://github.com/Brylimo/TIL/issues/21)
