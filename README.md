@@ -6,6 +6,7 @@
 - [Java](#Java)
 - [Spring](#Spring)
 - [SpringBoot](#SpringBoot)
+- [📍Special](#Special)
 
 ### Node.js
 - [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
@@ -42,3 +43,7 @@
 - [`💻정적 컨텐츠`](https://github.com/Brylimo/TIL/issues/25)
 - [`💻API`](https://github.com/Brylimo/TIL/issues/26)
 - [`💻회원 리포지토리 테스트 케이스 작성`](https://github.com/Brylimo/TIL/issues/27)
+
+
+### 📍Special
+- [`라이엇게임즈와 함께하는 실전코딩 - 2차(TDD)`](https://github.com/Brylimo/TIL/issues/28)
