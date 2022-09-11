@@ -31,6 +31,7 @@
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
 - [`Map을 순회하는 방법`](https://github.com/Brylimo/TIL/issues/19)
+- [`Optional<T>`](https://github.com/Brylimo/TIL/issues/29)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
