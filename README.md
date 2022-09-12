@@ -44,6 +44,7 @@
 - [`💻정적 컨텐츠`](https://github.com/Brylimo/TIL/issues/25)
 - [`💻API`](https://github.com/Brylimo/TIL/issues/26)
 - [`💻회원 리포지토리 테스트 케이스 작성`](https://github.com/Brylimo/TIL/issues/27)
+- [`💻컴포넌트 스캔과 자동의존관계 설정`](https://github.com/Brylimo/TIL/issues/30)
 
 
 ### 📍Special
