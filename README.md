@@ -6,6 +6,7 @@
 - [Java](#Java)
 - [Spring](#Spring)
 - [SpringBoot](#SpringBoot)
+- [Database](#Database)
 - [📜Book](#Book)
 - [📍Special](#Special)
 
@@ -40,6 +41,9 @@
 
 ### SpringBoot
 - [`💻스프링 입문`](https://github.com/Brylimo/TIL/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9E%85%EB%AC%B8/README.md)
+
+### Database
+- [`테이블 내 존재하는 contraints 확인법`](https://github.com/Brylimo/TIL/issues/35)
 
 ### 📍Special
 - [`라이엇게임즈와 함께하는 실전코딩 - 2차(TDD)`](https://github.com/Brylimo/TIL/issues/28)
