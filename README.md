@@ -33,6 +33,7 @@
 
 ### React.js
 - [`React.js 설치를 위한 url`](https://github.com/Brylimo/TIL/issues/38)
+- [`JSX`](https://github.com/Brylimo/TIL/issues/40)
 
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
