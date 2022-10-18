@@ -37,6 +37,7 @@
 - [`useState 함수`](https://github.com/Brylimo/TIL/issues/41)
 - [`props`](https://github.com/Brylimo/TIL/issues/42)
 - [`React memo`](https://github.com/Brylimo/TIL/issues/43)
+- [`Prop Types`](https://github.com/Brylimo/TIL/issues/44)
 
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
