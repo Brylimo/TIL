@@ -42,6 +42,7 @@
 
 ### CSS
 - [`display 속성`](https://github.com/Brylimo/TIL/issues/45)
+- [`first rule of flexbox`](https://github.com/Brylimo/TIL/issues/46)
 
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
