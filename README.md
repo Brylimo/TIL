@@ -40,6 +40,9 @@
 - [`React memo`](https://github.com/Brylimo/TIL/issues/43)
 - [`Prop Types`](https://github.com/Brylimo/TIL/issues/44)
 
+### CSS
+- [`display 속성`](https://github.com/Brylimo/TIL/issues/45)
+
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
 - [`Map을 순회하는 방법`](https://github.com/Brylimo/TIL/issues/19)
