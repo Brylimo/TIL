@@ -44,6 +44,7 @@
 - [`display 속성`](https://github.com/Brylimo/TIL/issues/45)
 - [`first rule of flexbox`](https://github.com/Brylimo/TIL/issues/46)
 - [`main axis & cross axis(flexbox)`](https://github.com/Brylimo/TIL/issues/47)
+- [`flexbox에서 children을 수정하는 경우들(align-self&order)`](https://github.com/Brylimo/TIL/issues/48)
 
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
