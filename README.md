@@ -47,6 +47,7 @@
 - [`flexbox에서 children을 수정하는 경우들(align-self&order)`](https://github.com/Brylimo/TIL/issues/48)
 - [`flex-wrap`](https://github.com/Brylimo/TIL/issues/49)
 - [`align-content`](https://github.com/Brylimo/TIL/issues/50)
+- [`flex-grow & flex-shrink`](https://github.com/Brylimo/TIL/issues/51)
 
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
