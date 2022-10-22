@@ -48,6 +48,7 @@
 - [`flex-wrap`](https://github.com/Brylimo/TIL/issues/49)
 - [`align-content`](https://github.com/Brylimo/TIL/issues/50)
 - [`flex-grow & flex-shrink`](https://github.com/Brylimo/TIL/issues/51)
+- [`flex-basis`](https://github.com/Brylimo/TIL/issues/52)
 
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
