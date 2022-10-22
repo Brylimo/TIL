@@ -45,6 +45,7 @@
 - [`first rule of flexbox`](https://github.com/Brylimo/TIL/issues/46)
 - [`main axis & cross axis(flexbox)`](https://github.com/Brylimo/TIL/issues/47)
 - [`flexbox에서 children을 수정하는 경우들(align-self&order)`](https://github.com/Brylimo/TIL/issues/48)
+- [`flex-wrap`](https://github.com/Brylimo/TIL/issues/49)
 
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
