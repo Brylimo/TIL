@@ -39,6 +39,7 @@
 - [`props`](https://github.com/Brylimo/TIL/issues/42)
 - [`React memo`](https://github.com/Brylimo/TIL/issues/43)
 - [`Prop Types`](https://github.com/Brylimo/TIL/issues/44)
+- [`useEffect`](https://github.com/Brylimo/TIL/issues/54)
 
 ### CSS
 - [`display 속성`](https://github.com/Brylimo/TIL/issues/45)
