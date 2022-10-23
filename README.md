@@ -40,6 +40,7 @@
 - [`React memo`](https://github.com/Brylimo/TIL/issues/43)
 - [`Prop Types`](https://github.com/Brylimo/TIL/issues/44)
 - [`useEffect`](https://github.com/Brylimo/TIL/issues/54)
+- [`cleanup 함수`](https://github.com/Brylimo/TIL/issues/55)
 
 ### CSS
 - [`display 속성`](https://github.com/Brylimo/TIL/issues/45)
