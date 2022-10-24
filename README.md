@@ -53,6 +53,7 @@
 - [`flex-basis`](https://github.com/Brylimo/TIL/issues/52)
 - [`grid-template-columns & grid-template-rows`](https://github.com/Brylimo/TIL/issues/53)
 - [`repeat 함수(grid)`](https://github.com/Brylimo/TIL/issues/56)
+- [`grid-template-areas`](https://github.com/Brylimo/TIL/issues/57)
 
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
