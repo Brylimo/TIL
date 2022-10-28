@@ -41,6 +41,7 @@
 - [`Prop Types`](https://github.com/Brylimo/TIL/issues/44)
 - [`useEffect`](https://github.com/Brylimo/TIL/issues/54)
 - [`cleanup 함수`](https://github.com/Brylimo/TIL/issues/55)
+- [`Github page를 이용해 배포하기`](https://github.com/Brylimo/TIL/issues/58)
 
 ### CSS
 - [`display 속성`](https://github.com/Brylimo/TIL/issues/45)
