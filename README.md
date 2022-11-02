@@ -56,6 +56,7 @@
 - [`repeat 함수(grid)`](https://github.com/Brylimo/TIL/issues/56)
 - [`grid-template-areas`](https://github.com/Brylimo/TIL/issues/57)
 - [`vertical height(vh)`](https://github.com/Brylimo/TIL/issues/59)
+- [`flex`](https://github.com/Brylimo/TIL/issues/60)
 
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
