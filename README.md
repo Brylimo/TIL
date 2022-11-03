@@ -58,6 +58,7 @@
 - [`grid-template-areas`](https://github.com/Brylimo/TIL/issues/57)
 - [`vertical height(vh)`](https://github.com/Brylimo/TIL/issues/59)
 - [`flex`](https://github.com/Brylimo/TIL/issues/60)
+- [`직접 웹 폰트 업로드해 사용하기`](https://github.com/Brylimo/TIL/issues/62)
 
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
