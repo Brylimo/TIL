@@ -80,3 +80,4 @@
 - [`위즈윅 에디터`](https://github.com/Brylimo/TIL/issues/34)
 - [`HTML 데이터 속성`](https://github.com/Brylimo/TIL/issues/36)
 - [`HTML 모바일에서 전화걸기`](https://github.com/Brylimo/TIL/issues/39)
+- [`figma에서 svg 사진 추출하기`](https://github.com/Brylimo/TIL/issues/63)
