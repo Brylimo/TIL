@@ -4,6 +4,7 @@
 - [TypeScript](#TypeScript)
 - [Nest.js](#Nest.js)
 - [React.js](#React.js)
+- [HTML](#HTML)
 - [CSS](#CSS)
 - [Java](#Java)
 - [Spring](#Spring)
@@ -44,6 +45,11 @@
 - [`Github page를 이용해 배포하기`](https://github.com/Brylimo/TIL/issues/58)
 - [`Styled Component`](https://github.com/Brylimo/TIL/issues/61)
 
+### HTML
+- [`데이터 속성`](https://github.com/Brylimo/TIL/issues/36)
+- [`모바일에서 전화걸기`](https://github.com/Brylimo/TIL/issues/39)
+- [`meta 태그`](https://github.com/Brylimo/TIL/issues/63)
+
 ### CSS
 - [`display 속성`](https://github.com/Brylimo/TIL/issues/45)
 - [`first rule of flexbox`](https://github.com/Brylimo/TIL/issues/46)
@@ -78,5 +84,3 @@
 ### 📍Special
 - [`라이엇게임즈와 함께하는 실전코딩 - 2차(TDD)`](https://github.com/Brylimo/TIL/issues/28)
 - [`위즈윅 에디터`](https://github.com/Brylimo/TIL/issues/34)
-- [`HTML 데이터 속성`](https://github.com/Brylimo/TIL/issues/36)
-- [`HTML 모바일에서 전화걸기`](https://github.com/Brylimo/TIL/issues/39)
