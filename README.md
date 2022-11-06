@@ -65,6 +65,7 @@
 - [`vertical height(vh)`](https://github.com/Brylimo/TIL/issues/59)
 - [`flex`](https://github.com/Brylimo/TIL/issues/60)
 - [`직접 웹 폰트 업로드해 사용하기`](https://github.com/Brylimo/TIL/issues/62)
+- [`Collapsing margins`](https://github.com/Brylimo/TIL/issues/64)
 
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
