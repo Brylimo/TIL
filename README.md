@@ -72,6 +72,7 @@
 - [`attribute selector`](https://github.com/Brylimo/TIL/issues/68)
 - [`CSS variable`](https://github.com/Brylimo/TIL/issues/69)
 - [`transition`](https://github.com/Brylimo/TIL/issues/70)
+- [`transform`](https://github.com/Brylimo/TIL/issues/72)
 
 ### jQuery
 - [`find 함수`](https://github.com/Brylimo/TIL/issues/66)
