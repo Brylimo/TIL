@@ -101,3 +101,4 @@
 ### 📍Special
 - [`라이엇게임즈와 함께하는 실전코딩 - 2차(TDD)`](https://github.com/Brylimo/TIL/issues/28)
 - [`위즈윅 에디터`](https://github.com/Brylimo/TIL/issues/34)
+- [`base64`](https://github.com/Brylimo/TIL/issues/79)
