@@ -75,6 +75,7 @@
 - [`transform`](https://github.com/Brylimo/TIL/issues/72)
 - [`animation`](https://github.com/Brylimo/TIL/issues/73)
 - [`Media Queries`](https://github.com/Brylimo/TIL/issues/76)
+- [`inherit`](https://github.com/Brylimo/TIL/issues/90)
 
 ### jQuery
 - [`find 함수`](https://github.com/Brylimo/TIL/issues/66)
