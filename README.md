@@ -102,6 +102,7 @@
 - [`URL 인코딩`](https://github.com/Brylimo/TIL/issues/87)
 - [`cookie`](https://github.com/Brylimo/TIL/issues/88)
 - [`session`](https://github.com/Brylimo/TIL/issues/89)
+- [`예외처리`](https://github.com/Brylimo/TIL/issues/91)
 
 ### SpringBoot
 - [`💻스프링 입문`](https://github.com/Brylimo/TIL/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9E%85%EB%AC%B8/README.md)
