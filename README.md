@@ -108,6 +108,7 @@
 - [`AOP`](https://github.com/Brylimo/TIL/issues/94)
 - [`TransactionManager`](https://github.com/Brylimo/TIL/issues/95)
 - [`@Transactional`](https://github.com/Brylimo/TIL/issues/96)
+- [`MyBatis`](https://github.com/Brylimo/TIL/issues/97)
 
 ### SpringBoot
 - [`💻스프링부트 입문`](https://github.com/Brylimo/TIL/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9E%85%EB%AC%B8/README.md)
