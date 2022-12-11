@@ -111,7 +111,7 @@
 - [`MyBatis`](https://github.com/Brylimo/TIL/issues/97)
 
 ### SpringBoot
-- [`💻스프링부트 입문`](https://github.com/Brylimo/TIL/blob/main/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9E%85%EB%AC%B8/README.md)
+
 
 ### Database
 - [`테이블 내 존재하는 contraints 확인법`](https://github.com/Brylimo/TIL/issues/35)
