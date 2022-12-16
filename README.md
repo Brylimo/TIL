@@ -85,6 +85,7 @@
 - [`Map을 순회하는 방법`](https://github.com/Brylimo/TIL/issues/19)
 - [`Optional<T>`](https://github.com/Brylimo/TIL/issues/29)
 - [`replaceAll()`](https://github.com/Brylimo/TIL/issues/33)
+- [`Comparator`](https://github.com/Brylimo/TIL/issues/99)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
