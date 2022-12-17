@@ -89,6 +89,7 @@
 - [`Method Reference`](https://github.com/Brylimo/TIL/issues/100)
 - [`Stream`](https://github.com/Brylimo/TIL/issues/101)
 - [`Filter(stream)`](https://github.com/Brylimo/TIL/issues/102)
+- [`Map(stream)`](https://github.com/Brylimo/TIL/issues/103)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
