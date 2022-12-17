@@ -87,6 +87,7 @@
 - [`replaceAll()`](https://github.com/Brylimo/TIL/issues/33)
 - [`Comparator`](https://github.com/Brylimo/TIL/issues/99)
 - [`Method Reference`](https://github.com/Brylimo/TIL/issues/100)
+- [`Stream`](https://github.com/Brylimo/TIL/issues/101)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
