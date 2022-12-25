@@ -92,6 +92,7 @@
 - [`Map(stream)`](https://github.com/Brylimo/TIL/issues/103)
 - [`sorted(stream)`](https://github.com/Brylimo/TIL/issues/104)
 - [`distinct(stream)`](https://github.com/Brylimo/TIL/issues/105)
+- [`FlatMap(stream)`](https://github.com/Brylimo/TIL/issues/106)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
