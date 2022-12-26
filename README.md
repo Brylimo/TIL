@@ -93,6 +93,7 @@
 - [`sorted(stream)`](https://github.com/Brylimo/TIL/issues/104)
 - [`distinct(stream)`](https://github.com/Brylimo/TIL/issues/105)
 - [`FlatMap(stream)`](https://github.com/Brylimo/TIL/issues/106)
+- [`Max/Min/Count(stream)`](https://github.com/Brylimo/TIL/issues/107)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
