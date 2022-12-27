@@ -96,6 +96,7 @@
 - [`Max/Min/Count(stream)`](https://github.com/Brylimo/TIL/issues/107)
 - [`All Match/Any Match(stream)`](https://github.com/Brylimo/TIL/issues/108)
 - [`Find First/Find Any(stream)`](https://github.com/Brylimo/TIL/issues/109)
+- [`reduce(stream)`](https://github.com/Brylimo/TIL/issues/110)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
