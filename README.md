@@ -98,6 +98,7 @@
 - [`Find First/Find Any(stream)`](https://github.com/Brylimo/TIL/issues/109)
 - [`reduce(stream)`](https://github.com/Brylimo/TIL/issues/110)
 - [`To Map(stream)`](https://github.com/Brylimo/TIL/issues/111)
+- [`Grouping By(stream)`](https://github.com/Brylimo/TIL/issues/112)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
