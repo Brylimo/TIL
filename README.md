@@ -100,6 +100,7 @@
 - [`To Map(stream)`](https://github.com/Brylimo/TIL/issues/111)
 - [`Grouping By(stream)`](https://github.com/Brylimo/TIL/issues/112)
 - [`Partitioning By(stream)`](https://github.com/Brylimo/TIL/issues/113)
+- [`For Each(stream)`](https://github.com/Brylimo/TIL/issues/114)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
