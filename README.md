@@ -8,6 +8,7 @@
 - [CSS](#CSS)
 - [jQuery](#jQuery)
 - [Java](#Java)
+- [GoF](#GoF)
 - [Spring](#Spring)
 - [SpringBoot](#SpringBoot)
 - [Database](#Database)
