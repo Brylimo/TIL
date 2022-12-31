@@ -108,6 +108,7 @@
 - [`SOLID 원칙`](https://github.com/Brylimo/TIL/issues/116)
 - [`class diagram`](https://github.com/Brylimo/TIL/issues/117)
 - [`Singleton`](https://github.com/Brylimo/TIL/issues/118)
+- [`Prototype`](https://github.com/Brylimo/TIL/issues/119)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
