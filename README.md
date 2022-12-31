@@ -8,7 +8,7 @@
 - [CSS](#CSS)
 - [jQuery](#jQuery)
 - [Java](#Java)
-- [GoF](#GoF)
+- [Design_Pattern](#Design_Pattern)
 - [Spring](#Spring)
 - [SpringBoot](#SpringBoot)
 - [Database](#Database)
@@ -102,6 +102,9 @@
 - [`Grouping By(stream)`](https://github.com/Brylimo/TIL/issues/112)
 - [`Partitioning By(stream)`](https://github.com/Brylimo/TIL/issues/113)
 - [`For Each(stream)`](https://github.com/Brylimo/TIL/issues/114)
+
+### Design_Pattern
+- [`Cohesion & Coupling`](https://github.com/Brylimo/TIL/issues/115)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
