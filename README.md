@@ -107,6 +107,7 @@
 - [`Cohesion & Coupling`](https://github.com/Brylimo/TIL/issues/115)
 - [`SOLID 원칙`](https://github.com/Brylimo/TIL/issues/116)
 - [`class diagram`](https://github.com/Brylimo/TIL/issues/117)
+- [`Singleton`](https://github.com/Brylimo/TIL/issues/118)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
