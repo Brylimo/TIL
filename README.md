@@ -110,6 +110,7 @@
 - [`Singleton`](https://github.com/Brylimo/TIL/issues/118)
 - [`Prototype`](https://github.com/Brylimo/TIL/issues/119)
 - [`Abstract Factory`](https://github.com/Brylimo/TIL/issues/120)
+- [`Builder`](https://github.com/Brylimo/TIL/issues/121)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
