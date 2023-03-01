@@ -34,6 +34,7 @@
 ### TypeScript
 - [`type 키워드`](https://github.com/Brylimo/TIL/issues/10)
 - [`tsc-watch`](https://github.com/Brylimo/TIL/issues/11)
+- [`interface`](https://github.com/Brylimo/TIL/issues/123)
 
 ### React.js
 - [`React.js 설치를 위한 url`](https://github.com/Brylimo/TIL/issues/38)
