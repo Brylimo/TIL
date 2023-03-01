@@ -47,6 +47,7 @@
 - [`cleanup 함수`](https://github.com/Brylimo/TIL/issues/55)
 - [`Github page를 이용해 배포하기`](https://github.com/Brylimo/TIL/issues/58)
 - [`Styled Component`](https://github.com/Brylimo/TIL/issues/61)
+- [`ThemeProvider(styled-components)`](https://github.com/Brylimo/TIL/issues/124)
 
 ### HTML
 - [`데이터 속성`](https://github.com/Brylimo/TIL/issues/36)
