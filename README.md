@@ -49,6 +49,7 @@
 - [`Styled Component`](https://github.com/Brylimo/TIL/issues/61)
 - [`ThemeProvider(styled-components)`](https://github.com/Brylimo/TIL/issues/124)
 - [`fragment`](https://github.com/Brylimo/TIL/issues/125)
+- [`createGlobalStyle(styled-components)`](https://github.com/Brylimo/TIL/issues/126)
 
 ### HTML
 - [`데이터 속성`](https://github.com/Brylimo/TIL/issues/36)
