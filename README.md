@@ -52,6 +52,7 @@
 - [`createGlobalStyle(styled-components)`](https://github.com/Brylimo/TIL/issues/126)
 - [`Router`](https://github.com/Brylimo/TIL/issues/127)
 - [`Link`](https://github.com/Brylimo/TIL/issues/128)
+- [`useRouteMatch`](https://github.com/Brylimo/TIL/issues/129  )
 
 ### HTML
 - [`데이터 속성`](https://github.com/Brylimo/TIL/issues/36)
