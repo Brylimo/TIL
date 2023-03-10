@@ -52,7 +52,7 @@
 - [`createGlobalStyle(styled-components)`](https://github.com/Brylimo/TIL/issues/126)
 - [`Router`](https://github.com/Brylimo/TIL/issues/127)
 - [`Link`](https://github.com/Brylimo/TIL/issues/128)
-- [`useRouteMatch`](https://github.com/Brylimo/TIL/issues/129  )
+- [`useRouteMatch`](https://github.com/Brylimo/TIL/issues/129)
 
 ### HTML
 - [`데이터 속성`](https://github.com/Brylimo/TIL/issues/36)
@@ -149,6 +149,7 @@
 
 ### Database
 - [`테이블 내 존재하는 contraints 확인법`](https://github.com/Brylimo/TIL/issues/35)
+- [`attribute types(ER Diagram)`](https://github.com/Brylimo/TIL/issues/130)
 
 ### 📍Special
 - [`라이엇게임즈와 함께하는 실전코딩 - 2차(TDD)`](https://github.com/Brylimo/TIL/issues/28)
