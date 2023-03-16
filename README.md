@@ -149,8 +149,9 @@
 
 ### Database
 - [`테이블 내 존재하는 contraints 확인법`](https://github.com/Brylimo/TIL/issues/35)
-- [`attribute types(ER Diagram)`](https://github.com/Brylimo/TIL/issues/130)
+- [`attribute types(ER)`](https://github.com/Brylimo/TIL/issues/130)
 - [`Mapping cardinalities(ER)`](https://github.com/Brylimo/TIL/issues/131)
+- [`Primary key of Relationship set(ER)`](https://github.com/Brylimo/TIL/issues/132)
 
 ### 📍Special
 - [`라이엇게임즈와 함께하는 실전코딩 - 2차(TDD)`](https://github.com/Brylimo/TIL/issues/28)
