@@ -1,7 +1,5 @@
 # <p align="center">[Today I Learned(TIL)🚀](https://github.com/Brylimo/TIL/issues)</p>
 ### Contents
-- [Today I Learned(TIL)🚀](#today-i-learnedtil)
-- [Contents](#contents)
 - [Node.js](#nodejs)
 - [TypeScript](#typescript)
 - [React.js](#reactjs)
