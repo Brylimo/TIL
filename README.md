@@ -12,6 +12,7 @@
 - [Spring](#Spring)
 - [SpringBoot](#SpringBoot)
 - [Database](#Database)
+- [JPA](#JPA)
 - [📜Book](#Book)
 - [📍Special](#Special)
 
