@@ -2,3 +2,4 @@
 
 - [`JPA 소개 1.0`](https://github.com/Brylimo/TIL/issues/137)
 - [`JPA 소개 1.1`](https://github.com/Brylimo/TIL/issues/138)
+- [`JPA 소개 1.2`](https://github.com/Brylimo/TIL/issues/139)
