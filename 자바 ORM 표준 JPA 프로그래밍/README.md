@@ -1,3 +1,4 @@
 # <p align="center">[📜자바 ORM 표준 JPA 프로그래밍](https://github.com/Brylimo/TIL/blob/main/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/README.md)</p>
 
-- [`1.0`](https://github.com/Brylimo/TIL/issues/136)
+- [`JPA 소개 1.0`](https://github.com/Brylimo/TIL/issues/137)
+- [`JPA 소개 1.1`](https://github.com/Brylimo/TIL/issues/138)
