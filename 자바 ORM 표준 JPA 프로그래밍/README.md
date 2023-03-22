@@ -8,3 +8,4 @@
 - [`JPA 시작 2.4`](https://github.com/Brylimo/TIL/issues/143)
 - [`JPA 시작 2.5`](https://github.com/Brylimo/TIL/issues/144)
 - [`JPA 시작 2.6`](https://github.com/Brylimo/TIL/issues/145)
+- [`영속성 관리 3.1`](https://github.com/Brylimo/TIL/issues/146)
