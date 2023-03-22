@@ -10,3 +10,4 @@
 - [`JPA 시작 2.6`](https://github.com/Brylimo/TIL/issues/145)
 - [`영속성 관리 3.1`](https://github.com/Brylimo/TIL/issues/146)
 - [`영속성 관리 3.2`](https://github.com/Brylimo/TIL/issues/147)
+- [`영속성 관리 3.3`](https://github.com/Brylimo/TIL/issues/148)
