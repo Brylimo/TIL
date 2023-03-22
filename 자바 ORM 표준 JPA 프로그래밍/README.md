@@ -6,3 +6,4 @@
 - [`JPA 소개 1.3`](https://github.com/Brylimo/TIL/issues/140)
 - [`JPA 시작 2.3`](https://github.com/Brylimo/TIL/issues/142)
 - [`JPA 시작 2.4`](https://github.com/Brylimo/TIL/issues/143)
+- [`JPA 시작 2.5`](https://github.com/Brylimo/TIL/issues/144)
