@@ -13,3 +13,4 @@
 - [`영속성 관리 3.3`](https://github.com/Brylimo/TIL/issues/148)
 - [`영속성 관리 3.4`](https://github.com/Brylimo/TIL/issues/149)
 - [`영속성 관리 3.5`](https://github.com/Brylimo/TIL/issues/150)
+- [`영속성 관리 3.6`](https://github.com/Brylimo/TIL/issues/151)
