@@ -16,3 +16,4 @@
 - [`영속성 관리 3.6`](https://github.com/Brylimo/TIL/issues/151)
 - [`엔티티 매핑 4.1`](https://github.com/Brylimo/TIL/issues/152)
 - [`엔티티 매핑 4.2`](https://github.com/Brylimo/TIL/issues/153)
+- [`엔티티 매핑 4.3`](https://github.com/Brylimo/TIL/issues/154)
