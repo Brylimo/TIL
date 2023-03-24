@@ -19,4 +19,5 @@
 - [`엔티티 매핑 4.3`](https://github.com/Brylimo/TIL/issues/154)
 - [`엔티티 매핑 4.4`](https://github.com/Brylimo/TIL/issues/155)
 - [`엔티티 매핑 4.6`](https://github.com/Brylimo/TIL/issues/156)
+- [`엔티티 매핑 4.7`](https://github.com/Brylimo/TIL/issues/157)
 
