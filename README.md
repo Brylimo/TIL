@@ -149,6 +149,7 @@
 ### SpringBoot
 - [`빌드하고 실행하는 법`](https://github.com/Brylimo/TIL/issues/98)
 - [`@RestController`](https://github.com/Brylimo/TIL/issues/158)
+- [`lombok`](https://github.com/Brylimo/TIL/issues/159)
 
 ### Database
 - [`테이블 내 존재하는 contraints 확인법`](https://github.com/Brylimo/TIL/issues/35)
