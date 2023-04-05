@@ -25,3 +25,4 @@
 - [`연관관계 매핑 기초 5.3`](https://github.com/Brylimo/TIL/issues/164)
 - [`연관관계 매핑 기초 5.4`](https://github.com/Brylimo/TIL/issues/165)
 - [`연관관계 매핑 기초 5.5`](https://github.com/Brylimo/TIL/issues/166)
+- [`연관관계 매핑 기초 5.6`](https://github.com/Brylimo/TIL/issues/167)
