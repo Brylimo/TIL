@@ -23,3 +23,4 @@
 - [`실전예제`](https://github.com/Brylimo/TIL/issues/162)
 - [`연관관계 매핑 기초 5.1`](https://github.com/Brylimo/TIL/issues/163)
 - [`연관관계 매핑 기초 5.3`](https://github.com/Brylimo/TIL/issues/164)
+- [`연관관계 매핑 기초 5.4`](https://github.com/Brylimo/TIL/issues/165)
