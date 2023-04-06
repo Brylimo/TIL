@@ -89,7 +89,7 @@
 - [`inherit`](https://github.com/Brylimo/TIL/issues/90)
 
 ### Bootstrap
-- [`bootstrap 소개`](https://github.com/Brylimo/TIL/issues/66)
+- [`bootstrap 소개`](https://github.com/Brylimo/TIL/issues/172)
 
 ### jQuery
 - [`find 함수`](https://github.com/Brylimo/TIL/issues/66)
