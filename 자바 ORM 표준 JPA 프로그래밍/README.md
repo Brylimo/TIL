@@ -29,3 +29,4 @@
 - [`다양한 연관관계 매핑 6.1`](https://github.com/Brylimo/TIL/issues/168)
 - [`다양한 연관관계 매핑 6.2`](https://github.com/Brylimo/TIL/issues/169)
 - [`다양한 연관관계 매핑 6.3`](https://github.com/Brylimo/TIL/issues/170)
+- [`다양한 연관관계 매핑 6.4`](https://github.com/Brylimo/TIL/issues/171)
