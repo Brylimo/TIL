@@ -27,3 +27,4 @@
 - [`연관관계 매핑 기초 5.5`](https://github.com/Brylimo/TIL/issues/166)
 - [`연관관계 매핑 기초 5.6`](https://github.com/Brylimo/TIL/issues/167)
 - [`다양한 연관관계 매핑 6.1`](https://github.com/Brylimo/TIL/issues/168)
+- [`다양한 연관관계 매핑 6.2`](https://github.com/Brylimo/TIL/issues/169)
