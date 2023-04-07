@@ -91,6 +91,7 @@
 ### Bootstrap
 - [`bootstrap 소개`](https://github.com/Brylimo/TIL/issues/172)
 - [`그리드 시스템`](https://github.com/Brylimo/TIL/issues/175)
+- [`타이포그래피`](https://github.com/Brylimo/TIL/issues/176)
 
 ### jQuery
 - [`find 함수`](https://github.com/Brylimo/TIL/issues/66)
