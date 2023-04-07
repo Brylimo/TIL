@@ -124,6 +124,7 @@
 - [`Collections.swap()`](https://github.com/Brylimo/TIL/issues/122)
 - [`제한된 지네릭 클래스`](https://github.com/Brylimo/TIL/issues/173)
 - [`Generic Class`](https://github.com/Brylimo/TIL/issues/174)
+- [`Wildcard`](https://github.com/Brylimo/TIL/issues/181)
 
 ### Design_Pattern
 - [`Cohesion & Coupling`](https://github.com/Brylimo/TIL/issues/115)
