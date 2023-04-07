@@ -87,6 +87,7 @@
 - [`animation`](https://github.com/Brylimo/TIL/issues/73)
 - [`Media Queries`](https://github.com/Brylimo/TIL/issues/76)
 - [`inherit`](https://github.com/Brylimo/TIL/issues/90)
+- [`top-down 방식`](https://github.com/Brylimo/TIL/issues/179)
 
 ### Bootstrap
 - [`bootstrap 소개`](https://github.com/Brylimo/TIL/issues/172)
