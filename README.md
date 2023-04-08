@@ -127,6 +127,7 @@
 - [`Wildcard`](https://github.com/Brylimo/TIL/issues/181)
 - [`enums`](https://github.com/Brylimo/TIL/issues/182)
 - [`stream(I/O)`](https://github.com/Brylimo/TIL/issues/183)
+- [`바이트기반 스트림`](https://github.com/Brylimo/TIL/issues/184)
 
 ### Design_Pattern
 - [`Cohesion & Coupling`](https://github.com/Brylimo/TIL/issues/115)
