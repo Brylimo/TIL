@@ -167,6 +167,7 @@
 - [`@Import`](https://github.com/Brylimo/TIL/issues/188)
 - [`@Qualifier`](https://github.com/Brylimo/TIL/issues/189)
 - [`@ComponentScan`](https://github.com/Brylimo/TIL/issues/190)
+- [`InitializingBean & DisposableBean`](https://github.com/Brylimo/TIL/issues/191)
 
 ### SpringBoot
 - [`빌드하고 실행하는 법`](https://github.com/Brylimo/TIL/issues/98)
