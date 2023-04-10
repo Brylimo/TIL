@@ -166,6 +166,7 @@
 - [`MyBatis`](https://github.com/Brylimo/TIL/issues/97)
 - [`@Import`](https://github.com/Brylimo/TIL/issues/188)
 - [`@Qualifier`](https://github.com/Brylimo/TIL/issues/189)
+- [`@ComponentScan`](https://github.com/Brylimo/TIL/issues/190)
 
 ### SpringBoot
 - [`빌드하고 실행하는 법`](https://github.com/Brylimo/TIL/issues/98)
