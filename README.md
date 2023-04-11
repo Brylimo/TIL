@@ -171,6 +171,7 @@
 - [`InitializingBean & DisposableBean`](https://github.com/Brylimo/TIL/issues/191)
 - [`JDBC 프로그래밍의 단점을 보완한 Spring`](https://github.com/Brylimo/TIL/issues/192)
 - [`@EnableWebMvc`](https://github.com/Brylimo/TIL/issues/194)
+- [`WebMvcConfigurer interface`](https://github.com/Brylimo/TIL/issues/195)
 
 ### SpringBoot
 - [`빌드하고 실행하는 법`](https://github.com/Brylimo/TIL/issues/98)
