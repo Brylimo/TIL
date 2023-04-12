@@ -176,6 +176,7 @@
 - [`정적 파일 접근 설정`](https://github.com/Brylimo/TIL/issues/197)
 - [`redirect`](https://github.com/Brylimo/TIL/issues/198)
 - [`커맨드 객체`](https://github.com/Brylimo/TIL/issues/199)
+- [`@ModelAttribute`](https://github.com/Brylimo/TIL/issues/200)
 
 ### SpringBoot
 - [`빌드하고 실행하는 법`](https://github.com/Brylimo/TIL/issues/98)
