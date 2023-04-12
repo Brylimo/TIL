@@ -173,6 +173,7 @@
 - [`@EnableWebMvc`](https://github.com/Brylimo/TIL/issues/194)
 - [`WebMvcConfigurer interface`](https://github.com/Brylimo/TIL/issues/195)
 - [`Dispatcher Servlet`](https://github.com/Brylimo/TIL/issues/196)
+- [`정적 파일 접근 설정`](https://github.com/Brylimo/TIL/issues/197)
 
 ### SpringBoot
 - [`빌드하고 실행하는 법`](https://github.com/Brylimo/TIL/issues/98)
