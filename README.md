@@ -181,6 +181,7 @@
 - [`복잡한 커맨드 객체`](https://github.com/Brylimo/TIL/issues/202)
 - [`Validator`](https://github.com/Brylimo/TIL/issues/203)
 - [`글로벌 범위 Validator 설정`](https://github.com/Brylimo/TIL/issues/204)
+- [`Bean Validation의 annotation`](https://github.com/Brylimo/TIL/issues/205)
 
 ### SpringBoot
 - [`빌드하고 실행하는 법`](https://github.com/Brylimo/TIL/issues/98)
