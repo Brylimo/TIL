@@ -179,6 +179,7 @@
 - [`@ModelAttribute`](https://github.com/Brylimo/TIL/issues/200)
 - [`커스텀 태그(form)`](https://github.com/Brylimo/TIL/issues/201)
 - [`복잡한 커맨드 객체`](https://github.com/Brylimo/TIL/issues/202)
+- [`Validator`](https://github.com/Brylimo/TIL/issues/203)
 
 ### SpringBoot
 - [`빌드하고 실행하는 법`](https://github.com/Brylimo/TIL/issues/98)
