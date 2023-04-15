@@ -190,6 +190,7 @@
 - [`@DateTimeFormat`](https://github.com/Brylimo/TIL/issues/211)
 - [`@JsonIgnore(Jackson)`](https://github.com/Brylimo/TIL/issues/212)
 - [`@JsonFormat(Jackson)`](https://github.com/Brylimo/TIL/issues/213)
+- [`@RequestBody`](https://github.com/Brylimo/TIL/issues/214)
 
 ### SpringBoot
 - [`빌드하고 실행하는 법`](https://github.com/Brylimo/TIL/issues/98)
