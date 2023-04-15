@@ -191,6 +191,7 @@
 - [`@JsonIgnore(Jackson)`](https://github.com/Brylimo/TIL/issues/212)
 - [`@JsonFormat(Jackson)`](https://github.com/Brylimo/TIL/issues/213)
 - [`@RequestBody`](https://github.com/Brylimo/TIL/issues/214)
+- [`ResponseEntity`](https://github.com/Brylimo/TIL/issues/215)
 
 ### SpringBoot
 - [`빌드하고 실행하는 법`](https://github.com/Brylimo/TIL/issues/98)
