@@ -194,6 +194,7 @@
 - [`ResponseEntity`](https://github.com/Brylimo/TIL/issues/215)
 - [`@RestControllerAdvice`](https://github.com/Brylimo/TIL/issues/216)
 - [`@Profile`](https://github.com/Brylimo/TIL/issues/217)
+- [`@Value`](https://github.com/Brylimo/TIL/issues/218)
 
 ### SpringBoot
 - [`빌드하고 실행하는 법`](https://github.com/Brylimo/TIL/issues/98)
