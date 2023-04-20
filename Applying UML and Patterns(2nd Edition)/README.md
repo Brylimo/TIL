@@ -5,3 +5,4 @@
 - [`#4.Inception`](https://github.com/Brylimo/TIL/issues/231)
 - [`#5.Understanding Requirements`](https://github.com/Brylimo/TIL/issues/232)
 - [`#6.USE-CASE MODEL:Writing requirements in context`](https://github.com/Brylimo/TIL/issues/236)
+- [`Use Case Diagram`](https://github.com/Brylimo/TIL/issues/237)
