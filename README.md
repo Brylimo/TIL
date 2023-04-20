@@ -202,6 +202,7 @@
 - [`@RestController`](https://github.com/Brylimo/TIL/issues/158)
 - [`lombok`](https://github.com/Brylimo/TIL/issues/159)
 - [`@SpringBootApplication`](https://github.com/Brylimo/TIL/issues/219)
+- [`Domain Model`](https://github.com/Brylimo/TIL/issues/238)
 
 ### eGovFrame
 - [`표준프레임워크`](https://github.com/Brylimo/TIL/issues/233)
