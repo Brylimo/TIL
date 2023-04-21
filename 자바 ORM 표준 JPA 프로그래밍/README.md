@@ -31,3 +31,4 @@
 - [`다양한 연관관계 매핑 6.3`](https://github.com/Brylimo/TIL/issues/170)
 - [`다양한 연관관계 매핑 6.4`](https://github.com/Brylimo/TIL/issues/171)
 - [`고급 매핑 7.1`](https://github.com/Brylimo/TIL/issues/241)
+- [`고급 매핑 7.2`](https://github.com/Brylimo/TIL/issues/242)
