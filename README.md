@@ -232,7 +232,6 @@
 ### 📜Book
 - [`자바 ORM 표준 JPA 프로그래밍`](https://github.com/Brylimo/TIL/blob/main/%EC%9E%90%EB%B0%94%20ORM%20%ED%91%9C%EC%A4%80%20JPA%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/README.md)
 - [`Applying UML and Patterns(2nd Edition)`](https://github.com/Brylimo/TIL/blob/main/Applying%20UML%20and%20Patterns(2nd%20Edition)/README.md)
-- [`리액트르 다루는 기술`](https://github.com/Brylimo/TIL/blob/main/리액트를%20다루는%20기술/README.md)
 
 ### 📍Special
 - [`라이엇게임즈와 함께하는 실전코딩 - 2차(TDD)`](https://github.com/Brylimo/TIL/issues/28)
