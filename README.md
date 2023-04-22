@@ -57,6 +57,7 @@
 - [`APEXCHARTS`](https://github.com/Brylimo/TIL/issues/133)
 - [`react-helmet`](https://github.com/Brylimo/TIL/issues/134)
 - [`recoil`](https://github.com/Brylimo/TIL/issues/135)
+- [`렌더링`](https://github.com/Brylimo/TIL/issues/243)
 
 ### HTML
 - [`데이터 속성`](https://github.com/Brylimo/TIL/issues/36)
