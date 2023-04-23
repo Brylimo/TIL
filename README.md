@@ -64,6 +64,7 @@
 - [`렌더링`](https://github.com/Brylimo/TIL/issues/245)
 - [`Virtual DOM`](https://github.com/Brylimo/TIL/issues/246)
 - [`null`](https://github.com/Brylimo/TIL/issues/248)
+- [`false`](https://github.com/Brylimo/TIL/issues/249)
 
 ### HTML
 - [`데이터 속성`](https://github.com/Brylimo/TIL/issues/36)
