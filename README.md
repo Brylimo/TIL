@@ -1,13 +1,13 @@
 # <p align="center">[Today I Learned(TIL)🚀](https://github.com/Brylimo/TIL/issues)</p>
 ### Contents
-- [Node.js](#nodejs)
-- [JavaScript](#javascript)
-- [TypeScript](#typescript)
-- [React.js](#reactjs)
 - [HTML](#html)
 - [CSS](#css)
+- [JavaScript](#javascript)
+- [TypeScript](#typescript)
 - [Bootstrap](#bootstrap)
 - [jQuery](#jquery)
+- [React.js](#reactjs)
+- [Node.js](#nodejs)
 - [Java](#java)
 - [Design\_Pattern](#design_pattern)
 - [Spring](#spring)
@@ -16,57 +16,6 @@
 - [Database](#database)
 - [📜Book](#book)
 - [📍Special](#special)
-
-### Node.js
-- [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
-- [`[mongoose] regular expression을 사용하여 keyword 서치하기`](https://github.com/Brylimo/TIL/issues/3)
-- [`password hashing(bcrypt 사용법)`](https://github.com/Brylimo/TIL/issues/4)
-- [`res.locals를 이용한 pug 접근`](https://github.com/Brylimo/TIL/issues/5)
-- [`Session`](https://github.com/Brylimo/TIL/issues/6)
-- [`Environment Variables`](https://github.com/Brylimo/TIL/issues/7)
-- [`fetch를 이용한 HTTP request`](https://github.com/Brylimo/TIL/issues/8)
-- [`URLSearchParams`](https://github.com/Brylimo/TIL/issues/9)
-- [`express-fileupload library`](https://github.com/Brylimo/TIL/issues/12)
-- [`async 함수가 반환하는 값의 의미`](https://github.com/Brylimo/TIL/issues/13)
-- [`Github login API 사용법`](https://github.com/Brylimo/TIL/issues/14)
-- [`[Mongoose] Schema Relationship`](https://github.com/Brylimo/TIL/issues/15)
-- [`flash message`](https://github.com/Brylimo/TIL/issues/16)
-- [`express.json()`](https://github.com/Brylimo/TIL/issues/17)
-
-### JavaScript
-- [`var의 scope`](https://github.com/Brylimo/TIL/issues/247)
-
-### TypeScript
-- [`type 키워드`](https://github.com/Brylimo/TIL/issues/10)
-- [`tsc-watch`](https://github.com/Brylimo/TIL/issues/11)
-- [`interface`](https://github.com/Brylimo/TIL/issues/123)
-
-### React.js
-- [`React.js 설치를 위한 url`](https://github.com/Brylimo/TIL/issues/38)
-- [`JSX`](https://github.com/Brylimo/TIL/issues/40)
-- [`useState 함수`](https://github.com/Brylimo/TIL/issues/41)
-- [`props`](https://github.com/Brylimo/TIL/issues/42)
-- [`React memo`](https://github.com/Brylimo/TIL/issues/43)
-- [`Prop Types`](https://github.com/Brylimo/TIL/issues/44)
-- [`useEffect`](https://github.com/Brylimo/TIL/issues/54)
-- [`cleanup 함수`](https://github.com/Brylimo/TIL/issues/55)
-- [`Github page를 이용해 배포하기`](https://github.com/Brylimo/TIL/issues/58)
-- [`Styled Component`](https://github.com/Brylimo/TIL/issues/61)
-- [`ThemeProvider(styled-components)`](https://github.com/Brylimo/TIL/issues/124)
-- [`fragment`](https://github.com/Brylimo/TIL/issues/125)
-- [`createGlobalStyle(styled-components)`](https://github.com/Brylimo/TIL/issues/126)
-- [`Router`](https://github.com/Brylimo/TIL/issues/127)
-- [`Link`](https://github.com/Brylimo/TIL/issues/128)
-- [`useRouteMatch`](https://github.com/Brylimo/TIL/issues/129)
-- [`APEXCHARTS`](https://github.com/Brylimo/TIL/issues/133)
-- [`react-helmet`](https://github.com/Brylimo/TIL/issues/134)
-- [`recoil`](https://github.com/Brylimo/TIL/issues/135)
-- [`렌더링`](https://github.com/Brylimo/TIL/issues/245)
-- [`Virtual DOM`](https://github.com/Brylimo/TIL/issues/246)
-- [`null`](https://github.com/Brylimo/TIL/issues/248)
-- [`false`](https://github.com/Brylimo/TIL/issues/249)
-- [`인라인 스타일링`](https://github.com/Brylimo/TIL/issues/250)
-- [`주석`](https://github.com/Brylimo/TIL/issues/251)
 
 ### HTML
 - [`데이터 속성`](https://github.com/Brylimo/TIL/issues/36)
@@ -100,6 +49,14 @@
 - [`inherit`](https://github.com/Brylimo/TIL/issues/90)
 - [`top-down 방식`](https://github.com/Brylimo/TIL/issues/179)
 
+### JavaScript
+- [`var의 scope`](https://github.com/Brylimo/TIL/issues/247)
+
+### TypeScript
+- [`type 키워드`](https://github.com/Brylimo/TIL/issues/10)
+- [`tsc-watch`](https://github.com/Brylimo/TIL/issues/11)
+- [`interface`](https://github.com/Brylimo/TIL/issues/123)
+
 ### Bootstrap
 - [`bootstrap 소개`](https://github.com/Brylimo/TIL/issues/172)
 - [`그리드 시스템`](https://github.com/Brylimo/TIL/issues/175)
@@ -110,6 +67,49 @@
 
 ### jQuery
 - [`find 함수`](https://github.com/Brylimo/TIL/issues/66)
+
+### React.js
+- [`React.js 설치를 위한 url`](https://github.com/Brylimo/TIL/issues/38)
+- [`JSX`](https://github.com/Brylimo/TIL/issues/40)
+- [`useState 함수`](https://github.com/Brylimo/TIL/issues/41)
+- [`props`](https://github.com/Brylimo/TIL/issues/42)
+- [`React memo`](https://github.com/Brylimo/TIL/issues/43)
+- [`Prop Types`](https://github.com/Brylimo/TIL/issues/44)
+- [`useEffect`](https://github.com/Brylimo/TIL/issues/54)
+- [`cleanup 함수`](https://github.com/Brylimo/TIL/issues/55)
+- [`Github page를 이용해 배포하기`](https://github.com/Brylimo/TIL/issues/58)
+- [`Styled Component`](https://github.com/Brylimo/TIL/issues/61)
+- [`ThemeProvider(styled-components)`](https://github.com/Brylimo/TIL/issues/124)
+- [`fragment`](https://github.com/Brylimo/TIL/issues/125)
+- [`createGlobalStyle(styled-components)`](https://github.com/Brylimo/TIL/issues/126)
+- [`Router`](https://github.com/Brylimo/TIL/issues/127)
+- [`Link`](https://github.com/Brylimo/TIL/issues/128)
+- [`useRouteMatch`](https://github.com/Brylimo/TIL/issues/129)
+- [`APEXCHARTS`](https://github.com/Brylimo/TIL/issues/133)
+- [`react-helmet`](https://github.com/Brylimo/TIL/issues/134)
+- [`recoil`](https://github.com/Brylimo/TIL/issues/135)
+- [`렌더링`](https://github.com/Brylimo/TIL/issues/245)
+- [`Virtual DOM`](https://github.com/Brylimo/TIL/issues/246)
+- [`null`](https://github.com/Brylimo/TIL/issues/248)
+- [`false`](https://github.com/Brylimo/TIL/issues/249)
+- [`인라인 스타일링`](https://github.com/Brylimo/TIL/issues/250)
+- [`주석`](https://github.com/Brylimo/TIL/issues/251)
+
+### Node.js
+- [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
+- [`[mongoose] regular expression을 사용하여 keyword 서치하기`](https://github.com/Brylimo/TIL/issues/3)
+- [`password hashing(bcrypt 사용법)`](https://github.com/Brylimo/TIL/issues/4)
+- [`res.locals를 이용한 pug 접근`](https://github.com/Brylimo/TIL/issues/5)
+- [`Session`](https://github.com/Brylimo/TIL/issues/6)
+- [`Environment Variables`](https://github.com/Brylimo/TIL/issues/7)
+- [`fetch를 이용한 HTTP request`](https://github.com/Brylimo/TIL/issues/8)
+- [`URLSearchParams`](https://github.com/Brylimo/TIL/issues/9)
+- [`express-fileupload library`](https://github.com/Brylimo/TIL/issues/12)
+- [`async 함수가 반환하는 값의 의미`](https://github.com/Brylimo/TIL/issues/13)
+- [`Github login API 사용법`](https://github.com/Brylimo/TIL/issues/14)
+- [`[Mongoose] Schema Relationship`](https://github.com/Brylimo/TIL/issues/15)
+- [`flash message`](https://github.com/Brylimo/TIL/issues/16)
+- [`express.json()`](https://github.com/Brylimo/TIL/issues/17)
 
 ### Java
 - [`indexOf`](https://github.com/Brylimo/TIL/issues/18)
