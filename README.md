@@ -95,6 +95,7 @@
 - [`인라인 스타일링`](https://github.com/Brylimo/TIL/issues/250)
 - [`주석`](https://github.com/Brylimo/TIL/issues/251)
 - [`defaultProps`](https://github.com/Brylimo/TIL/issues/252)
+- [`children`](https://github.com/Brylimo/TIL/issues/253)
 
 ### Node.js
 - [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
