@@ -66,6 +66,7 @@
 - [`null`](https://github.com/Brylimo/TIL/issues/248)
 - [`false`](https://github.com/Brylimo/TIL/issues/249)
 - [`인라인 스타일링`](https://github.com/Brylimo/TIL/issues/250)
+- [`주석`](https://github.com/Brylimo/TIL/issues/251)
 
 ### HTML
 - [`데이터 속성`](https://github.com/Brylimo/TIL/issues/36)
