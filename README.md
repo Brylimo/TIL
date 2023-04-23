@@ -1,6 +1,7 @@
 # <p align="center">[Today I Learned(TIL)🚀](https://github.com/Brylimo/TIL/issues)</p>
 ### Contents
 - [Node.js](#nodejs)
+- [JavaScript](#javascript)
 - [TypeScript](#typescript)
 - [React.js](#reactjs)
 - [HTML](#html)
@@ -31,6 +32,9 @@
 - [`[Mongoose] Schema Relationship`](https://github.com/Brylimo/TIL/issues/15)
 - [`flash message`](https://github.com/Brylimo/TIL/issues/16)
 - [`express.json()`](https://github.com/Brylimo/TIL/issues/17)
+
+### JavaScript
+- [`var의 scope`](https://github.com/Brylimo/TIL/issues/247)
 
 ### TypeScript
 - [`type 키워드`](https://github.com/Brylimo/TIL/issues/10)
