@@ -101,6 +101,7 @@
 - [`key`](https://github.com/Brylimo/TIL/issues/256)
 - [`Lifecycle Methods(mount)`](https://github.com/Brylimo/TIL/issues/257)
 - [`Lifecycle Methods(update)`](https://github.com/Brylimo/TIL/issues/258)
+- [`Lifecycle Methods(unmount)`](https://github.com/Brylimo/TIL/issues/259)
 
 ### Node.js
 - [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
