@@ -97,6 +97,7 @@
 - [`주석`](https://github.com/Brylimo/TIL/issues/251)
 - [`defaultProps`](https://github.com/Brylimo/TIL/issues/252)
 - [`children`](https://github.com/Brylimo/TIL/issues/253)
+- [`ref`](https://github.com/Brylimo/TIL/issues/255)
 
 ### Node.js
 - [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
