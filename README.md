@@ -109,6 +109,7 @@
 - [`immer 라이브러리`](https://github.com/Brylimo/TIL/issues/264)
 - [`params`](https://github.com/Brylimo/TIL/issues/265)
 - [`URL query`](https://github.com/Brylimo/TIL/issues/266)
+- [`Outlet`](https://github.com/Brylimo/TIL/issues/267)
 
 ### Node.js
 - [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
