@@ -112,6 +112,7 @@
 - [`Outlet`](https://github.com/Brylimo/TIL/issues/267)
 - [`Navigate 컴포넌트`](https://github.com/Brylimo/TIL/issues/268)
 - [`Context API`](https://github.com/Brylimo/TIL/issues/269)
+- [`useContext`](https://github.com/Brylimo/TIL/issues/270)
 
 ### Node.js
 - [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
