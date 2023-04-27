@@ -114,6 +114,7 @@
 - [`Context API`](https://github.com/Brylimo/TIL/issues/269)
 - [`useContext`](https://github.com/Brylimo/TIL/issues/270)
 - [`useReducer`](https://github.com/Brylimo/TIL/issues/271)
+- [`redux`](https://github.com/Brylimo/TIL/issues/272)
 
 ### Node.js
 - [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
