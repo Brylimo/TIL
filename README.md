@@ -241,6 +241,7 @@
 
 ### SpringSecurity
 - [`스프링 시큐리티 의존성 추가`](https://github.com/Brylimo/TIL/issues/275)
+- [`WebSecurityConfigurerAdapter`](https://github.com/Brylimo/TIL/issues/276)
 
 ### eGovFrame
 - [`표준프레임워크`](https://github.com/Brylimo/TIL/issues/233)
