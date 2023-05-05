@@ -12,6 +12,7 @@
 - [Design\_Pattern](#design_pattern)
 - [Spring](#spring)
 - [SpringBoot](#springboot)
+- [SpringSecurity](#springsecurity)
 - [eGovFrame](#egovframe)
 - [Database](#database)
 - [📜Book](#book)
@@ -237,6 +238,8 @@
 - [`@SpringBootApplication`](https://github.com/Brylimo/TIL/issues/219)
 - [`Domain Model`](https://github.com/Brylimo/TIL/issues/238)
 - [`정적파일 경로`](https://github.com/Brylimo/TIL/issues/239)
+
+### SpringSecurity
 
 ### eGovFrame
 - [`표준프레임워크`](https://github.com/Brylimo/TIL/issues/233)
