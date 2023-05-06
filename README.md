@@ -117,6 +117,7 @@
 - [`useReducer`](https://github.com/Brylimo/TIL/issues/271)
 - [`redux`](https://github.com/Brylimo/TIL/issues/272)
 - [`combineReducers(redux)`](https://github.com/Brylimo/TIL/issues/273)
+- [`createAction`](https://github.com/Brylimo/TIL/issues/278)
 
 ### Node.js
 - [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
