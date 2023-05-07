@@ -121,6 +121,7 @@
 - [`useSelector`](https://github.com/Brylimo/TIL/issues/279)
 - [`useDispatch`](https://github.com/Brylimo/TIL/issues/280)
 - [`useStore`](https://github.com/Brylimo/TIL/issues/281)
+- [`redux middleware`](https://github.com/Brylimo/TIL/issues/282)
 
 ### Node.js
 - [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
