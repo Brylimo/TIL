@@ -53,6 +53,7 @@
 ### JavaScript
 - [`var의 scope`](https://github.com/Brylimo/TIL/issues/247)
 - [`computed property name`](https://github.com/Brylimo/TIL/issues/254)
+- [`console.dir`](https://github.com/Brylimo/TIL/issues/283)
 
 ### TypeScript
 - [`type 키워드`](https://github.com/Brylimo/TIL/issues/10)
