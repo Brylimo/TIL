@@ -125,6 +125,7 @@
 - [`useStore`](https://github.com/Brylimo/TIL/issues/281)
 - [`redux middleware`](https://github.com/Brylimo/TIL/issues/282)
 - [`redux-thunk`](https://github.com/Brylimo/TIL/issues/285)
+- [`redux-saga`](https://github.com/Brylimo/TIL/issues/286)
 
 ### Node.js
 - [`[mongoose] 모델에 statics function 추가하기`](https://github.com/Brylimo/TIL/issues/2)
