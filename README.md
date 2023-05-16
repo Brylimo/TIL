@@ -49,6 +49,7 @@
 - [`Media Queries`](https://github.com/Brylimo/TIL/issues/76)
 - [`inherit`](https://github.com/Brylimo/TIL/issues/90)
 - [`top-down 방식`](https://github.com/Brylimo/TIL/issues/179)
+- [`rem`](https://github.com/Brylimo/TIL/issues/289)
 
 ### JavaScript
 - [`var의 scope`](https://github.com/Brylimo/TIL/issues/247)
