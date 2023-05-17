@@ -11,3 +11,4 @@
 <strong>[Elaboration Iteration1]</strong>
 
 - [`#9.USE-CASE MODEL:Drawing System Sequence Diagrams`](https://github.com/Brylimo/TIL/issues/244)
+- [`#10.Domain Model:Visualizing Concepts`](https://github.com/Brylimo/TIL/issues/292)
