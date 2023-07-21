@@ -15,7 +15,7 @@
 - [SpringSecurity](#springsecurity)
 - [eGovFrame](#egovframe)
 - [Database](#database)
-- [Algorithm](#Algorithm)
+- [Algorithm](#algorithm)
 - [📜Book](#book)
 - [📍Special](#special)
 
