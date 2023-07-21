@@ -192,6 +192,7 @@
 - [`Builder`](https://github.com/Brylimo/TIL/issues/121)
 - [`Template Method`](https://github.com/Brylimo/TIL/issues/293)
 - [`Factory Method`](https://github.com/Brylimo/TIL/issues/294)
+- [`Strategy`](https://github.com/Brylimo/TIL/issues/295)
 
 ### Spring
 - [`JSONObject`](https://github.com/Brylimo/TIL/issues/20)
