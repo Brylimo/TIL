@@ -181,6 +181,7 @@
 - [`LocalDate & LocalTime`](https://github.com/Brylimo/TIL/issues/209)
 - [`DateTimeFormatter`](https://github.com/Brylimo/TIL/issues/210)
 - [`Serialization`](https://github.com/Brylimo/TIL/issues/274)
+- [`Collectors.reverseOrder()`](https://github.com/Brylimo/TIL/issues/299)
 
 ### Design_Pattern
 - [`Cohesion & Coupling`](https://github.com/Brylimo/TIL/issues/115)
