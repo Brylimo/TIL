@@ -2,4 +2,4 @@
 
 ## BAEKJOON
 ### BFS
-- B24444
+- [B24444](https://github.com/Brylimo/TIL/issues/298)
